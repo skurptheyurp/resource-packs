@@ -62,12 +62,12 @@ color=0x002423
 # opacity=0
 
 [choose_spell.border.inner]
-color=0x002423
+color=0x000000
 # opacity=0
 
 [choose_spell.border.outer]
-color=0x000000
-# opacity=0 
+color=0x002423
+opacity=255
 
 [clan_chat.border.inner]
 color=0x1b1a18
@@ -709,11 +709,11 @@ color=0x000000
 # opacity=0
 
 [world_map.key.border.inner]
-color=0x000000
+color=0x1a1a18
 opacity=0
 
 [world_map.key.border.outer]
-color=0x1a1a18
+color=0x000000
 opacity=0
 
 [world_map.dropdown.border.inner]
